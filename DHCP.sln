@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DHCP", "DHCP\DHCP.vbproj", "{AC0090D1-F1E5-4C1C-BDF0-F2CC651E981B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0090D1-F1E5-4C1C-BDF0-F2CC651E981B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0090D1-F1E5-4C1C-BDF0-F2CC651E981B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0090D1-F1E5-4C1C-BDF0-F2CC651E981B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0090D1-F1E5-4C1C-BDF0-F2CC651E981B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5D49B65-3C1D-4748-A0EA-766A842416A0}
+	EndGlobalSection
+EndGlobal
