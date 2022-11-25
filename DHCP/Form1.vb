@@ -64,7 +64,7 @@ Public Class Form1
             End With
         Next i
 
-        'Zkopírujeme obsah dgv1 do dgv2, dgv5, dgv8 a dgv9
+        'Zkopírujeme obsah dgv1 do dgv2, dgv5, dgv8 a dgv9 - řádek 220 (+/-)
         CopyGrid1()
         CopyGrid2()
         CopyGrid3()
